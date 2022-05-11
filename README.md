@@ -1,4 +1,4 @@
-### Ola! Meu nome é João Lucas 🖐️
+### Olá! Meu nome é João Lucas 🖐️
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMauric&show_icons=true&theme=radical)
 
