@@ -18,7 +18,7 @@
     
 </Div><br>
 
-Apaixonado por técnologia e um bom café.
+Apaixonado por técnologia!!
 
 ## Estudando:
 <br>
