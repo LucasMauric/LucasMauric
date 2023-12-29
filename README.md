@@ -20,6 +20,4 @@
 
 Apaixonado por técnologia!!
 
-## Estudando:
-<br>
 
