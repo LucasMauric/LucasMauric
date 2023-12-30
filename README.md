@@ -1,1 +1,1 @@
-I AE 👋 BORA CODAR?
+E ae 👋 bora codar?
